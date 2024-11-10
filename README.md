@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="left">🔭 I’m currently working at the Institut d'Astrophysique Spatiale (IAS) on optimizing Python code for the European Space Agency's PLATO mission.<br>💻 I specialize in full-stack development, data engineering, and cloud-based solutions.<br>🎓 With a strong foundation in Astronomy and Astrophysics and Data Science, I’m passionate about combining science and software engineering to solve complex challenges.<br>🌱 I’m always learning more about cutting-edge technologies like Kubernetes, CI/CD, and ETL Pipelines.</h6>
+<h4 align="left">🔭 I’m currently working at the Institut d'Astrophysique Spatiale (IAS) on optimizing Python code for the European Space Agency's PLATO mission.<br>💻 I specialize in full-stack development, data engineering, and cloud-based solutions.<br>🎓 With a strong foundation in Astronomy and Astrophysics and Data Science, I’m passionate about combining science and software engineering to solve complex challenges.<br>🌱 I’m always learning more about cutting-edge technologies like Kubernetes, CI/CD, and ETL Pipelines.</h4>
 
 ###
 
