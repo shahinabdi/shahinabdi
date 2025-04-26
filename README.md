@@ -1,6 +1,6 @@
 # Shahin Abdi
 
-![Profile Views](https://visitcount.itsvg.in/api?id=shahinabdi&icon=6&color=9)
+[![](https://visitcount.itsvg.in/api?id=shahinabdi&icon=6&color=9)](https://visitcount.itsvg.in)
 
 ## 💫 About Me
 
